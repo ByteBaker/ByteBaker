@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+[![HitCount](http://hits.dwyl.com/bytebaker/bytebaker.svg)](http://hits.dwyl.com/bytebaker/bytebaker)
+
 - 🔭 I’m currently working on [**India**](https://github.com/byteBaker/python-india)
 - 🌱 I know :snake:, but learning more of it.
 - :heart: I love to make life easier with software.
