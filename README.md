@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [**India**](https://github.com/byteBaker/python-india)
+- 🔭 I’m currently working on [**Bharat**](https://github.com/ByteBaker/bharat)
 - 🌱 I know :snake:, but learning more of it.
 - :heart: I love to make life easier with software.
-- 👯 I’m looking for collaborators with [**India**](https://github.com/byteBaker/python-india)
 - 💬 Got a question about :snake:? Ask me.
 - 📫 Wanna talk? *[**LinkedIn**](https://www.linkedin.com/in/shraddhakishan)*
 - 😄 What you should call me? ***ByteBaker***
